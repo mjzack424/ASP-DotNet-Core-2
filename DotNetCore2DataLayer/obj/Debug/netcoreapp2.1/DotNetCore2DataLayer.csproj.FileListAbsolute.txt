@@ -1,0 +1,10 @@
+C:\Projects\WebDeveloper\MyDotNetWeb\DotNetCore2\ASP-DotNet-Core-2\DotNetCore2DataLayer\bin\Debug\netcoreapp2.1\DotNetCore2DataLayer.deps.json
+C:\Projects\WebDeveloper\MyDotNetWeb\DotNetCore2\ASP-DotNet-Core-2\DotNetCore2DataLayer\bin\Debug\netcoreapp2.1\DotNetCore2DataLayer.dll
+C:\Projects\WebDeveloper\MyDotNetWeb\DotNetCore2\ASP-DotNet-Core-2\DotNetCore2DataLayer\bin\Debug\netcoreapp2.1\DotNetCore2DataLayer.pdb
+C:\Projects\WebDeveloper\MyDotNetWeb\DotNetCore2\ASP-DotNet-Core-2\DotNetCore2DataLayer\obj\Debug\netcoreapp2.1\DotNetCore2DataLayer.csproj.AssemblyReference.cache
+C:\Projects\WebDeveloper\MyDotNetWeb\DotNetCore2\ASP-DotNet-Core-2\DotNetCore2DataLayer\obj\Debug\netcoreapp2.1\DotNetCore2DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\WebDeveloper\MyDotNetWeb\DotNetCore2\ASP-DotNet-Core-2\DotNetCore2DataLayer\obj\Debug\netcoreapp2.1\DotNetCore2DataLayer.AssemblyInfoInputs.cache
+C:\Projects\WebDeveloper\MyDotNetWeb\DotNetCore2\ASP-DotNet-Core-2\DotNetCore2DataLayer\obj\Debug\netcoreapp2.1\DotNetCore2DataLayer.AssemblyInfo.cs
+C:\Projects\WebDeveloper\MyDotNetWeb\DotNetCore2\ASP-DotNet-Core-2\DotNetCore2DataLayer\obj\Debug\netcoreapp2.1\DotNetCore2DataLayer.csproj.CoreCompileInputs.cache
+C:\Projects\WebDeveloper\MyDotNetWeb\DotNetCore2\ASP-DotNet-Core-2\DotNetCore2DataLayer\obj\Debug\netcoreapp2.1\DotNetCore2DataLayer.dll
+C:\Projects\WebDeveloper\MyDotNetWeb\DotNetCore2\ASP-DotNet-Core-2\DotNetCore2DataLayer\obj\Debug\netcoreapp2.1\DotNetCore2DataLayer.pdb

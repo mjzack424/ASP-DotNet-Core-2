@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\WebDeveloper\\MyDotNetWeb\\DotNetCore2\\DotNetCore2.Core\\DotNetCore2.Core.csproj": {}
+    "C:\\Projects\\WebDeveloper\\MyDotNetWeb\\DotNetCore2\\ASP-DotNet-Core-2\\DotNetCore2.Core\\DotNetCore2.Core.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\WebDeveloper\\MyDotNetWeb\\DotNetCore2\\DotNetCore2.Core\\DotNetCore2.Core.csproj": {
+    "C:\\Projects\\WebDeveloper\\MyDotNetWeb\\DotNetCore2\\ASP-DotNet-Core-2\\DotNetCore2.Core\\DotNetCore2.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\WebDeveloper\\MyDotNetWeb\\DotNetCore2\\DotNetCore2.Core\\DotNetCore2.Core.csproj",
+        "projectUniqueName": "C:\\Projects\\WebDeveloper\\MyDotNetWeb\\DotNetCore2\\ASP-DotNet-Core-2\\DotNetCore2.Core\\DotNetCore2.Core.csproj",
         "projectName": "DotNetCore2.Core",
-        "projectPath": "C:\\Projects\\WebDeveloper\\MyDotNetWeb\\DotNetCore2\\DotNetCore2.Core\\DotNetCore2.Core.csproj",
+        "projectPath": "C:\\Projects\\WebDeveloper\\MyDotNetWeb\\DotNetCore2\\ASP-DotNet-Core-2\\DotNetCore2.Core\\DotNetCore2.Core.csproj",
         "packagesPath": "C:\\Users\\zack\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\WebDeveloper\\MyDotNetWeb\\DotNetCore2\\DotNetCore2.Core\\obj\\",
+        "outputPath": "C:\\Projects\\WebDeveloper\\MyDotNetWeb\\DotNetCore2\\ASP-DotNet-Core-2\\DotNetCore2.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

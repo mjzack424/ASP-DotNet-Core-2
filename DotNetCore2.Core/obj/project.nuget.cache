@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kV6VB4QoldrSMW0J7dKBPyJpt0XP5Z5U4oA9LC2geB5DLSVW4yND7p0bK5sTzP/P670tJb9g23gc6EgbjFGJZg==",
+  "dgSpecHash": "fZGgrj8E6fvRXELMLgOizREaOdlpXEKHHNMtOoHVsBabtZ0cN3QKGCVKqkHqr56acTnwmm497y/GXFAJhhV1gQ==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\WebDeveloper\\MyDotNetWeb\\DotNetCore2\\DotNetCore2.Core\\DotNetCore2.Core.csproj",
+  "projectFilePath": "C:\\Projects\\WebDeveloper\\MyDotNetWeb\\DotNetCore2\\ASP-DotNet-Core-2\\DotNetCore2.Core\\DotNetCore2.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zack\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
     "C:\\Users\\zack\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",

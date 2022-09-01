@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\WebDeveloper\\MyDotNetWeb\\DotNetCore2\\DotNetCore2DataLayer\\DotNetCore2DataLayer.csproj": {}
+    "C:\\Projects\\WebDeveloper\\MyDotNetWeb\\DotNetCore2\\ASP-DotNet-Core-2\\DotNetCore2DataLayer\\DotNetCore2DataLayer.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\WebDeveloper\\MyDotNetWeb\\DotNetCore2\\DotNetCore2DataLayer\\DotNetCore2DataLayer.csproj": {
+    "C:\\Projects\\WebDeveloper\\MyDotNetWeb\\DotNetCore2\\ASP-DotNet-Core-2\\DotNetCore2DataLayer\\DotNetCore2DataLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\WebDeveloper\\MyDotNetWeb\\DotNetCore2\\DotNetCore2DataLayer\\DotNetCore2DataLayer.csproj",
+        "projectUniqueName": "C:\\Projects\\WebDeveloper\\MyDotNetWeb\\DotNetCore2\\ASP-DotNet-Core-2\\DotNetCore2DataLayer\\DotNetCore2DataLayer.csproj",
         "projectName": "DotNetCore2DataLayer",
-        "projectPath": "C:\\Projects\\WebDeveloper\\MyDotNetWeb\\DotNetCore2\\DotNetCore2DataLayer\\DotNetCore2DataLayer.csproj",
+        "projectPath": "C:\\Projects\\WebDeveloper\\MyDotNetWeb\\DotNetCore2\\ASP-DotNet-Core-2\\DotNetCore2DataLayer\\DotNetCore2DataLayer.csproj",
         "packagesPath": "C:\\Users\\zack\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\WebDeveloper\\MyDotNetWeb\\DotNetCore2\\DotNetCore2DataLayer\\obj\\",
+        "outputPath": "C:\\Projects\\WebDeveloper\\MyDotNetWeb\\DotNetCore2\\ASP-DotNet-Core-2\\DotNetCore2DataLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

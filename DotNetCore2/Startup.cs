@@ -24,6 +24,9 @@ namespace DotNetCore2
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddMvc();
+
+
             services.Configure<CookiePolicyOptions>(options =>
             {
                 // This lambda determines whether user consent for non-essential cookies is needed for a given request.
@@ -48,8 +51,16 @@ namespace DotNetCore2
                 app.UseHsts();
             }
 
-            app.UseHttpsRedirection();
+            app.Run(async (context) =>
+            {
+                await context.Response.WriteAsync("Hello world!");
+            });
+
+            app.UseMvcWithDefaultRoute();
             app.UseStaticFiles();
+
+
+            app.UseHttpsRedirection();
             app.UseCookiePolicy();
 
             app.UseMvc();

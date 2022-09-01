@@ -1,0 +1,10 @@
+C:\Projects\WebDeveloper\MyDotNetWeb\DotNetCore2\ASP-DotNet-Core-2\DotNetCore2.Core\bin\Debug\netcoreapp2.1\DotNetCore2.Core.deps.json
+C:\Projects\WebDeveloper\MyDotNetWeb\DotNetCore2\ASP-DotNet-Core-2\DotNetCore2.Core\bin\Debug\netcoreapp2.1\DotNetCore2.Core.dll
+C:\Projects\WebDeveloper\MyDotNetWeb\DotNetCore2\ASP-DotNet-Core-2\DotNetCore2.Core\bin\Debug\netcoreapp2.1\DotNetCore2.Core.pdb
+C:\Projects\WebDeveloper\MyDotNetWeb\DotNetCore2\ASP-DotNet-Core-2\DotNetCore2.Core\obj\Debug\netcoreapp2.1\DotNetCore2.Core.csproj.AssemblyReference.cache
+C:\Projects\WebDeveloper\MyDotNetWeb\DotNetCore2\ASP-DotNet-Core-2\DotNetCore2.Core\obj\Debug\netcoreapp2.1\DotNetCore2.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\WebDeveloper\MyDotNetWeb\DotNetCore2\ASP-DotNet-Core-2\DotNetCore2.Core\obj\Debug\netcoreapp2.1\DotNetCore2.Core.AssemblyInfoInputs.cache
+C:\Projects\WebDeveloper\MyDotNetWeb\DotNetCore2\ASP-DotNet-Core-2\DotNetCore2.Core\obj\Debug\netcoreapp2.1\DotNetCore2.Core.AssemblyInfo.cs
+C:\Projects\WebDeveloper\MyDotNetWeb\DotNetCore2\ASP-DotNet-Core-2\DotNetCore2.Core\obj\Debug\netcoreapp2.1\DotNetCore2.Core.csproj.CoreCompileInputs.cache
+C:\Projects\WebDeveloper\MyDotNetWeb\DotNetCore2\ASP-DotNet-Core-2\DotNetCore2.Core\obj\Debug\netcoreapp2.1\DotNetCore2.Core.dll
+C:\Projects\WebDeveloper\MyDotNetWeb\DotNetCore2\ASP-DotNet-Core-2\DotNetCore2.Core\obj\Debug\netcoreapp2.1\DotNetCore2.Core.pdb

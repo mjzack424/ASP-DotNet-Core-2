@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zijQRl7mBsXQrTJJOAh+zUJ5UzBwueCQrwNL22mI7eeqp2O5HOaNoPTVDuHP0x0xDEM72Dx+XUTNaA3KVjz3jQ==",
+  "dgSpecHash": "Bk+DVL0iXvYzEGxnz+bxDIE1Th9AyxHEFODkuI3fqHUhN8o2Lhy/GbyFJYx8/FJ/+bWn3INZQBQOe5b1LCLusA==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\WebDeveloper\\MyDotNetWeb\\DotNetCore2\\DotNetCore2\\DotNetCore2.csproj",
+  "projectFilePath": "C:\\Projects\\WebDeveloper\\MyDotNetWeb\\DotNetCore2\\ASP-DotNet-Core-2\\DotNetCore2\\DotNetCore2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zack\\.nuget\\packages\\microsoft.aspnetcore\\2.1.7\\microsoft.aspnetcore.2.1.7.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.antiforgery\\2.1.1\\microsoft.aspnetcore.antiforgery.2.1.1.nupkg.sha512",
