@@ -8,3 +8,9 @@ C:\Projects\WebDeveloper\MyDotNetWeb\DotNetCore2\ASP-DotNet-Core-2\DotNetCore2.C
 C:\Projects\WebDeveloper\MyDotNetWeb\DotNetCore2\ASP-DotNet-Core-2\DotNetCore2.Core\obj\Debug\netcoreapp2.1\DotNetCore2.Core.csproj.CoreCompileInputs.cache
 C:\Projects\WebDeveloper\MyDotNetWeb\DotNetCore2\ASP-DotNet-Core-2\DotNetCore2.Core\obj\Debug\netcoreapp2.1\DotNetCore2.Core.dll
 C:\Projects\WebDeveloper\MyDotNetWeb\DotNetCore2\ASP-DotNet-Core-2\DotNetCore2.Core\obj\Debug\netcoreapp2.1\DotNetCore2.Core.pdb
+C:\Projects\WebDeveloper\MyDotNetWeb\DotNetCore2\ASP-DotNet-Core-2\DotNetCore2.Core\bin\Debug\netcoreapp2.1\DotNetCore2.Core.runtimeconfig.json
+C:\Projects\WebDeveloper\MyDotNetWeb\DotNetCore2\ASP-DotNet-Core-2\DotNetCore2.Core\bin\Debug\netcoreapp2.1\DotNetCore2.Core.runtimeconfig.dev.json
+C:\Projects\WebDeveloper\MyDotNetWeb\DotNetCore2\ASP-DotNet-Core-2\DotNetCore2.Core\obj\Debug\netcoreapp2.1\DotNetCore2.Core.genruntimeconfig.cache
+C:\Projects\WebDeveloper\MyDotNetWeb\DotNetCore2\ASP-DotNet-Core-2\DotNetCore2.Core\bin\Debug\netcoreapp2.1\DotNetCore2DataLayer.dll
+C:\Projects\WebDeveloper\MyDotNetWeb\DotNetCore2\ASP-DotNet-Core-2\DotNetCore2.Core\bin\Debug\netcoreapp2.1\DotNetCore2DataLayer.pdb
+C:\Projects\WebDeveloper\MyDotNetWeb\DotNetCore2\ASP-DotNet-Core-2\DotNetCore2.Core\obj\Debug\netcoreapp2.1\DotNetCore2.Core.csproj.CopyComplete

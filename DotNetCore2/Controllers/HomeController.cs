@@ -10,7 +10,8 @@ namespace DotNetCore2.Controllers
     {
         public IActionResult Index()
         {
-            return Content("Salam Farmande");
+            return View();
         }
+
     }
 }

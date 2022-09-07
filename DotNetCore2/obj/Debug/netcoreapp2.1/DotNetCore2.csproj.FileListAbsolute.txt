@@ -23,3 +23,17 @@ C:\Projects\WebDeveloper\MyDotNetWeb\DotNetCore2\ASP-DotNet-Core-2\DotNetCore2\o
 C:\Projects\WebDeveloper\MyDotNetWeb\DotNetCore2\ASP-DotNet-Core-2\DotNetCore2\obj\Debug\netcoreapp2.1\DotNetCore2.dll
 C:\Projects\WebDeveloper\MyDotNetWeb\DotNetCore2\ASP-DotNet-Core-2\DotNetCore2\obj\Debug\netcoreapp2.1\DotNetCore2.pdb
 C:\Projects\WebDeveloper\MyDotNetWeb\DotNetCore2\ASP-DotNet-Core-2\DotNetCore2\obj\Debug\netcoreapp2.1\DotNetCore2.genruntimeconfig.cache
+C:\Projects\WebDeveloper\MyDotNetWeb\DotNetCore2\ASP-DotNet-Core-2\DotNetCore2\bin\Debug\netcoreapp2.1\DotNetCore2.Views.dll
+C:\Projects\WebDeveloper\MyDotNetWeb\DotNetCore2\ASP-DotNet-Core-2\DotNetCore2\bin\Debug\netcoreapp2.1\DotNetCore2.Views.pdb
+C:\Projects\WebDeveloper\MyDotNetWeb\DotNetCore2\ASP-DotNet-Core-2\DotNetCore2\obj\Debug\netcoreapp2.1\DotNetCore2.TagHelpers.input.cache
+C:\Projects\WebDeveloper\MyDotNetWeb\DotNetCore2\ASP-DotNet-Core-2\DotNetCore2\obj\Debug\netcoreapp2.1\DotNetCore2.TagHelpers.output.cache
+C:\Projects\WebDeveloper\MyDotNetWeb\DotNetCore2\ASP-DotNet-Core-2\DotNetCore2\obj\Debug\netcoreapp2.1\DotNetCore2.RazorCoreGenerate.cache
+C:\Projects\WebDeveloper\MyDotNetWeb\DotNetCore2\ASP-DotNet-Core-2\DotNetCore2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_DefaultLayout.cshtml.g.cs
+C:\Projects\WebDeveloper\MyDotNetWeb\DotNetCore2\ASP-DotNet-Core-2\DotNetCore2\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Projects\WebDeveloper\MyDotNetWeb\DotNetCore2\ASP-DotNet-Core-2\DotNetCore2\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Projects\WebDeveloper\MyDotNetWeb\DotNetCore2\ASP-DotNet-Core-2\DotNetCore2\obj\Debug\netcoreapp2.1\DotNetCore2.RazorTargetAssemblyInfo.cs
+C:\Projects\WebDeveloper\MyDotNetWeb\DotNetCore2\ASP-DotNet-Core-2\DotNetCore2\obj\Debug\netcoreapp2.1\DotNetCore2.Views.pdb
+C:\Projects\WebDeveloper\MyDotNetWeb\DotNetCore2\ASP-DotNet-Core-2\DotNetCore2\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Projects\WebDeveloper\MyDotNetWeb\DotNetCore2\ASP-DotNet-Core-2\DotNetCore2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_MetaTags.cshtml.g.cs
+C:\Projects\WebDeveloper\MyDotNetWeb\DotNetCore2\ASP-DotNet-Core-2\DotNetCore2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Styles.cshtml.g.cs
+C:\Projects\WebDeveloper\MyDotNetWeb\DotNetCore2\ASP-DotNet-Core-2\DotNetCore2\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Footer.cshtml.g.cs

@@ -39,6 +39,7 @@ namespace DotNetCore2DataLayer.Entities.User
         public bool IsActive { get; set; }
 
         [Display(Name = "آواتر")]
+        [MaxLength(50, ErrorMessage ="نمی تواند بیشتر از {1} کاراکتر باشد {0} لطفا اصلاح بفرمایید")]   
         public string UserAvatar { get; set; }
 
         [Display(Name = "تاریخ ثبت نام")]
