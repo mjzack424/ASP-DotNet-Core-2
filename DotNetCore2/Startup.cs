@@ -1,16 +1,19 @@
-using Microsoft.AspNetCore.Builder;
-using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.HttpsPolicy;
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Configuration;
-using Microsoft.Extensions.DependencyInjection;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using DotNetCore2DataLayer.Context;
+using DotNetCore2.Core.Services.Interfaces;
+using Microsoft.AspNetCore.Builder;
+using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.Http;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.DependencyInjection;
+
+
+using Microsoft.AspNetCore.Mvc;
+using DotNetCore2DataLayer.Context;
+
 
 namespace DotNetCore2
 {
@@ -39,6 +42,13 @@ namespace DotNetCore2
 
             #endregion
 
+            #region Ioc
+
+            services.AddTransient<IUserService, IUserService>();
+            
+
+            #endregion
+
             /*services.Configure<CookiePolicyOptions>(options =>
             {
                 // This lambda determines whether user consent for non-essential cookies is needed for a given request.
@@ -57,25 +67,14 @@ namespace DotNetCore2
             {
                 app.UseDeveloperExceptionPage();
             }
-            else
-            {
-                app.UseExceptionHandler("/Error");
-                app.UseHsts();
-            }
-
-            app.Run(async (context) =>
-            {
-                await context.Response.WriteAsync("Hello world!");
-            });
 
             app.UseMvcWithDefaultRoute();
             app.UseStaticFiles();
 
-
-            app.UseHttpsRedirection();
-            app.UseCookiePolicy();
-
-            app.UseMvc();
+            app.Run(async (context) =>
+            {
+                await context.Response.WriteAsync("Hello World!");
+            });
         }
     }
 }
