@@ -8,3 +8,13 @@ C:\Projects\WebDeveloper\MyDotNetWeb\DotNetCore2\ASP-DotNet-Core-2\DotNetCore2Da
 C:\Projects\WebDeveloper\MyDotNetWeb\DotNetCore2\ASP-DotNet-Core-2\DotNetCore2DataLayer\obj\Debug\netcoreapp2.1\DotNetCore2DataLayer.csproj.CoreCompileInputs.cache
 C:\Projects\WebDeveloper\MyDotNetWeb\DotNetCore2\ASP-DotNet-Core-2\DotNetCore2DataLayer\obj\Debug\netcoreapp2.1\DotNetCore2DataLayer.dll
 C:\Projects\WebDeveloper\MyDotNetWeb\DotNetCore2\ASP-DotNet-Core-2\DotNetCore2DataLayer\obj\Debug\netcoreapp2.1\DotNetCore2DataLayer.pdb
+D:\Projects\Web\ASP-DotNet-Core-2\DotNetCore2DataLayer\bin\Debug\netcoreapp2.1\DotNetCore2DataLayer.deps.json
+D:\Projects\Web\ASP-DotNet-Core-2\DotNetCore2DataLayer\bin\Debug\netcoreapp2.1\DotNetCore2DataLayer.dll
+D:\Projects\Web\ASP-DotNet-Core-2\DotNetCore2DataLayer\bin\Debug\netcoreapp2.1\DotNetCore2DataLayer.pdb
+D:\Projects\Web\ASP-DotNet-Core-2\DotNetCore2DataLayer\obj\Debug\netcoreapp2.1\DotNetCore2DataLayer.csproj.AssemblyReference.cache
+D:\Projects\Web\ASP-DotNet-Core-2\DotNetCore2DataLayer\obj\Debug\netcoreapp2.1\DotNetCore2DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Web\ASP-DotNet-Core-2\DotNetCore2DataLayer\obj\Debug\netcoreapp2.1\DotNetCore2DataLayer.AssemblyInfoInputs.cache
+D:\Projects\Web\ASP-DotNet-Core-2\DotNetCore2DataLayer\obj\Debug\netcoreapp2.1\DotNetCore2DataLayer.AssemblyInfo.cs
+D:\Projects\Web\ASP-DotNet-Core-2\DotNetCore2DataLayer\obj\Debug\netcoreapp2.1\DotNetCore2DataLayer.csproj.CoreCompileInputs.cache
+D:\Projects\Web\ASP-DotNet-Core-2\DotNetCore2DataLayer\obj\Debug\netcoreapp2.1\DotNetCore2DataLayer.dll
+D:\Projects\Web\ASP-DotNet-Core-2\DotNetCore2DataLayer\obj\Debug\netcoreapp2.1\DotNetCore2DataLayer.pdb
